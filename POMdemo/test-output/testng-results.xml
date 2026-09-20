@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-14T23:53:29 IST" name="Default suite" finished-at="2026-09-14T23:54:45 IST" duration-ms="75968">
+    <groups>
+    </groups>
+    <test started-at="2026-09-14T23:53:29 IST" name="Default test" finished-at="2026-09-14T23:54:45 IST" duration-ms="75968">
+      <class name="com.pom.TestCases.TestCases">
+        <test-method is-config="true" signature="launchChromeBrowsesr()[pri:0, instance:com.pom.TestCases.TestCases@22ff4249]" started-at="2026-09-14T23:53:29 IST" name="launchChromeBrowsesr" finished-at="2026-09-14T23:53:30 IST" duration-ms="1606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchChromeBrowsesr -->
+        <test-method signature="verifySearch()[pri:0, instance:com.pom.TestCases.TestCases@22ff4249]" started-at="2026-09-14T23:53:30 IST" name="verifySearch" finished-at="2026-09-14T23:54:33 IST" duration-ms="62277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+        <test-method signature="verifySearchClick()[pri:1, instance:com.pom.TestCases.TestCases@22ff4249]" started-at="2026-09-14T23:54:33 IST" name="verifySearchClick" finished-at="2026-09-14T23:54:38 IST" duration-ms="5253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchClick -->
+        <test-method signature="verifycredentials()[pri:2, instance:com.pom.TestCases.TestCases@22ff4249]" started-at="2026-09-14T23:54:38 IST" name="verifycredentials" finished-at="2026-09-14T23:54:45 IST" duration-ms="6651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycredentials -->
+        <test-method signature="verifySuccessfulLogin()[pri:3, instance:com.pom.TestCases.TestCases@22ff4249]" started-at="2026-09-14T23:54:45 IST" name="verifySuccessfulLogin" finished-at="2026-09-14T23:54:45 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfulLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.pom.TestCases.TestCases@22ff4249]" started-at="2026-09-14T23:54:45 IST" name="closeBrowser" finished-at="2026-09-14T23:54:45 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.pom.TestCases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
